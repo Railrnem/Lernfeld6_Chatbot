@@ -2,8 +2,15 @@ from chatterbot import ChatBot
 from chatterbot.trainers import ListTrainer
 import re
 
-#chatbot = ChatBot("Chatbot", read_only=True)
-chatbot = ChatBot("Chatbot")
+chatbot = ChatBot("Chatbot",
+                logic_adapters=[
+                {
+                    'import_path': 'chatterbot.logic.BestMatch',
+                    'default_response': 'I am sorry, but I do not understand.',
+                    'maximum_similarity_threshold': 0.90
+                }
+                ],
+                read_only=True)
 FILE1 = "training_1.txt"
 FILE2 = "training_2.txt"
 
