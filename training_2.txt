@@ -1,0 +1,12 @@
+Hello
+Welcome to Solutions IT! What can I help you with today?
+I need support with Networking
+We can certainly help with that. Please answer with "The issue is now resolved" when the problem resolved. Can you describe the specific issue or error message you are encountering? 
+I do not have an internet connection
+Are you trying to use Ethernet or WLAN?
+Ethernet
+Please check if the Ethernet cable is connected to your device.
+The cable is connected
+Please check if the Ethernet cable is connected to the wall.
+The issue is now resolved
+I'm glad I could help you resolve your issue. If you have time please fill out this short customer satisfaction form: www.solutions-it.tech/customersatisfaction
