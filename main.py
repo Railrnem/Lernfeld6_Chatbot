@@ -2,6 +2,7 @@ from chatterbot import ChatBot
 from chatterbot.trainers import ListTrainer
 import re
 
+#chatbot = ChatBot("Chatbot", read_only=True)
 chatbot = ChatBot("Chatbot")
 FILE1 = "training_1.txt"
 FILE2 = "training_2.txt"
