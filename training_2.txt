@@ -1,5 +1,5 @@
 Hello
-Welcome to Solutions IT! What can I help you with today?
+Welcome to Solutions IT! What can I help you with today? Software Development, Networking, Systemintegration or someting else.
 I need support with Networking
 We can certainly help with that. Please answer with "The issue is now resolved" when the problem resolved. Can you describe the specific issue or error message you are encountering? 
 I do not have an internet connection

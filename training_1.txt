@@ -1,5 +1,5 @@
 Hello
-Welcome to Solutions IT! What can I help you with today?
+Welcome to Solutions IT! What can I help you with today? Software Development, Networking, Systemintegration or someting else.
 I need support with Software Development
 We can certainly help with that. Please answer with "The issue is now resolved" when the problem resolved. What is the name of the development environment you are using?
 Visual Studio Code
