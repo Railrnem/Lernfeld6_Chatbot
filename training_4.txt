@@ -1,0 +1,10 @@
+Hello
+Welcome to Solutions IT! What can I help you with today? Software Development, Networking, Systemintegration or someting else.
+I need support with Networking
+We can certainly help with that. Please answer with "The issue is now resolved" when the problem resolved. Can you describe the specific issue or error message you are encountering? 
+I do not have an internet connection
+Are you trying to use Ethernet or WLAN?
+WLAN
+Does the probleme only occur to one device or multiple devices
+The probleme occurs to multiple devices
+I seem not to be able to help you with that problem. I will now escalate your Issue to 2nd Level. Please wait.

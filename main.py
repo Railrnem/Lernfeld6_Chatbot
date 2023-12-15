@@ -20,7 +20,7 @@ def prepareFile(file: str):
 
 # Train the bot
 trainer = ListTrainer(chatbot)
-files = ["training_1.txt", "training_2.txt"]
+files = ["training_1.txt", "training_2.txt", "training_3.txt", "training_4.txt"]
 for file in files:
     prepared_file = prepareFile(file)
     trainer.train(prepared_file)

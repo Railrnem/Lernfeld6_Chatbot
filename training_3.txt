@@ -1,0 +1,12 @@
+Hello
+Welcome to Solutions IT! What can I help you with today? Software Development, Networking, Systemintegration or someting else.
+I need support with Software Development
+We can certainly help with that. Please answer with "The issue is now resolved" when the problem resolved. What is the name of the development environment you are using?
+Visual Studio Code
+Can you describe the specific issue or error message you are encountering?
+I cannot compile the code
+Does the issue occur consistently or intermittently?
+consistently
+Have there been any recent changes to your development environment?
+no
+I seem not to be able to help you with that problem. I will now escalate your Issue to 2nd Level. Please wait.
